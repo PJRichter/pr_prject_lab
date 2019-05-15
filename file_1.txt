@@ -1,3 +1,6 @@
 hello yall
 my name is
 Peter
+what's up, this
+is Charlie. I just 
+added 3 lines of text
